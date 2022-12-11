@@ -1,4 +1,4 @@
 # keiko-corp
 The greatest company ever created by Bruno
 
-*visist https://zerotomastery.io/ for more*
+https://voyageinstyle.github.io/Keiko-corp/
