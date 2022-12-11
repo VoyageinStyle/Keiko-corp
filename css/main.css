@@ -855,7 +855,9 @@ footer .copyright a{
 	.hero .caption{
 		margin-left: 0;
 	}
-
+	.hero {
+	background: url('../img/hero-small.jpg') no-repeat fixed center center;
+	}
 	.app_store_btn{
 		display: block;
 		width: 90%;
